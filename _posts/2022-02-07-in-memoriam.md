@@ -8,7 +8,7 @@ Benjamin A. Landin
 
 It is with great sadness that we report the passing of our friend Ben, who died Monday afternoon at the the age of 33 after a month-long illness. He was a principal maintainer of the Fort Wayne Linux Users Group website for the past five years, and was also usually took the initiative for scheduling events and reserving facilities for meetings. 
 
-Ben was most recently employed by [Silicon Mountain Technologies](https://www.siliconmtn.com/) as a systems administrator. Ben attended [Homestead High School](https://homestead.sacs.k12.in.us/), [The Career Academy High School at Anthis](https://fortwayneschools.org/careeracademy), and [Ivy Tech Community College - Northeast](https://www.ivytech.edu/fortwayne/index.html) in Fort Wayne. He is survived by his parents, brother, and his many other relatives and friends.
+Ben attended [Homestead High School](https://homestead.sacs.k12.in.us/), [The Career Academy High School at Anthis](https://fortwayneschools.org/careeracademy), and [Ivy Tech Community College - Northeast](https://www.ivytech.edu/fortwayne/index.html) in Fort Wayne. He was most recently employed by [Silicon Mountain Technologies](https://www.siliconmtn.com/) as a systems administrator. Ben is survived by his parents, brother, and his many other relatives and friends.
 
 Ben enjoyed online gaming, especially [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and maintained a Minecraft server. He was also a [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_&_Dragons) aficionado, and a regular at former [Game Annex](https://www.facebook.com/thegameannex/) in Fort Wayne. 
 
