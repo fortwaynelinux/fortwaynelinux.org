@@ -10,7 +10,7 @@ It is with great sadness that we report the passing of our friend Ben, who died 
 
 Ben was most recently employed by [Silicon Mountain Technologies](https://www.siliconmtn.com/) as a systems administrator. Ben attended [Homestead High School](https://homestead.sacs.k12.in.us/), [The Career Academy High School at Anthis](https://fortwayneschools.org/careeracademy), and [Ivy Tech Community College - Northeast](https://www.ivytech.edu/fortwayne/index.html) in Fort Wayne. He is survived by his parents, brother, and his many other relatives and friends.
 
-Ben enjoyed online gaming, especially [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and maintained a Minecraft server. He was also a [https://en.wikipedia.org/wiki/Dungeons_&_Dragons](Dungeons & Dragons) aficionado, and a regular at former [Game Annex](https://www.facebook.com/thegameannex/) in Fort Wayne. 
+Ben enjoyed online gaming, especially [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and maintained a Minecraft server. He was also a [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_&_Dragons) aficionado, and a regular at former [Game Annex](https://www.facebook.com/thegameannex/) in Fort Wayne. 
 
 Ben was a staunch supporter of the [Electronic Frontier Foundation](https://www.eff.org/about), so much so that he usually overrode the objections over other leadership team members who thought we were sharing too many EFF notices and calls-to-action. It is suggested that memorials be made to the EFF by [donating here](https://supporters.eff.org/donate/join-eff-4).
 
