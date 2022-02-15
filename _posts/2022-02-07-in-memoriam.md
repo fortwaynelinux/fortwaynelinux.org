@@ -3,10 +3,10 @@ layout: post
 title: In Memoriam
 author: Joseph Brennan
 ---
-Benjamin A. Landin
-1989-2022
+# Benjamin Alexander Landin
+## 1988-2022
 
-It is with great sadness that we report the passing of our friend Ben Landin, who died Monday afternoon at the the age of 33 after a month-long illness. Ben was the principal maintainer of the Fort Wayne Linux Users Group website for the past five years. He also usually took the initiative for scheduling events and reserving facilities for meetings, and lent his equipment, including his projector and portable desktop, so that others could make the most effective presentations possible. Ben suggested, and was instrumental in effecting, the switch from [Meetup](https://meetup.com) to [GetTogether](https://gettogether.community) for event scheduling.
+It is with great sadness that we report the passing of our friend Ben Landin, who died Monday afternoon at the the age of thirty-three after a month-long illness. Ben was the principal maintainer of the Fort Wayne Linux Users Group website for the past five years. He also usually took the initiative for scheduling events and reserving facilities for meetings, and lent his equipment, including his projector and portable desktop, so that others could make the most effective presentations possible. Ben suggested, and was instrumental in effecting, the switch from [Meetup](https://meetup.com) to [GetTogether](https://gettogether.community) for event scheduling.
 
 Ben attended [Homestead High School](https://homestead.sacs.k12.in.us/), [The Career Academy High School at Anthis](https://fortwayneschools.org/careeracademy), and [Ivy Tech Community College - Northeast](https://www.ivytech.edu/fortwayne/index.html) in Fort Wayne. He was most recently employed by [Silicon Mountain Technologies](https://www.siliconmtn.com/) as a systems administrator. Ben is survived by his parents, brother, and his many other relatives and friends.
 
@@ -18,4 +18,6 @@ Ben deliberately designed most systems so that others could step in and maintain
 
 One exigency that was not foreseen was the loss of Ben's participation in accessing the group's [multi-signature Bitcoin wallet](https://en.bitcoin.it/wiki/Multi-signature). Accordingly, we have removed the Bitcoin donation address from the website until we can determine if restoring access is possible.
 
-A link to the official obituary will be posted here as soon as it is available. Tentative funeral plans have been made for Thursday, February 17, or Friday February 18th; further details will be supplied as soon as they are known. On behalf of the entire Fort Wayne Linux Users Group, we offer our deepest condolences to all who knew and loved Ben.
+Visitation will be held from 4-7 PM, Thursday, February 17, 2022 at [Klaehn, Fahl & Melton Funeral Home](https://www.dignitymemorial.com/funeral-homes/fort-wayne-in/klaehn-fahl-melton-funeral-home/4120), 6424 Winchester Rd, Fort Wayne, IN  46819, United States. A funeral service will be held at [Trinity English Lutheran](trinityenglish.org), 450 W. Washington Blvd Fort Wayne, IN 46802, on Friday, February 18, at 11 AM, with calling one hour prior. 
+
+On behalf of the entire Fort Wayne Linux Users Group, we offer our deepest condolences to all who knew and loved Ben.
