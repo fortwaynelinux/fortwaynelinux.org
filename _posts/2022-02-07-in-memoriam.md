@@ -1,8 +1,9 @@
 ---
 layout: post
-title: In Memoriam: Benjamin Alexander Landin 1988-2022
+title: In Memoriam
 author: Joseph Brennan
 ---
+#In Memoriam: Benjamin Alexander Landin 1988-2022
 It is with great sadness that we report the passing of our friend Ben Landin, who died Monday afternoon at the the age of thirty-three after a month-long illness. Ben was the principal maintainer of the Fort Wayne Linux Users Group website for the past five years. He also usually took the initiative for scheduling events and reserving facilities for meetings, and lent his equipment, including his projector and portable desktop, so that others could make the most effective presentations possible. Ben suggested, and was instrumental in effecting, the switch from [Meetup](https://meetup.com) to [GetTogether](https://gettogether.community) for event scheduling.
 
 Ben attended [Homestead High School](https://homestead.sacs.k12.in.us/), [The Career Academy High School at Anthis](https://fortwayneschools.org/careeracademy), and [Ivy Tech Community College - Northeast](https://www.ivytech.edu/fortwayne/index.html) in Fort Wayne. He was most recently employed by [Silicon Mountain Technologies](https://www.siliconmtn.com/) as a systems administrator. Ben is survived by his parents, brother, and his many other relatives and friends.
