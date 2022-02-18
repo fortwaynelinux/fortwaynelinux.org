@@ -3,7 +3,7 @@ layout: post
 title: In Memoriam
 author: Joseph Brennan
 ---
-#In Memoriam: Benjamin Alexander Landin 1988-2022
+# Benjamin Alexander Landin 1988-2022
 It is with great sadness that we reported the passing of our friend Ben Landin, who died at the the age of thirty-three after a month-long illness. [His obituary](https://www.legacy.com/us/obituaries/fortwayne/name/benjamin-landin-obituary?id=33031508) has since been published by his family, prompting us to update our original notification below.
 
 Ben was the principal maintainer of the Fort Wayne Linux Users Group website for the past five years. He also usually took the initiative for scheduling events and reserving facilities for meetings, and lent his equipment, including his projector and portable desktop, so that others could make the most effective presentations possible. Ben suggested, and was instrumental in effecting, the switch from [Meetup](https://meetup.com) to [GetTogether](https://gettogether.community) for event scheduling.
